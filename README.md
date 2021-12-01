@@ -9,5 +9,5 @@
 - I’m currently working on an GBA game as an educational project.
 
 ### Quick access:
-- GBA-game: https://github.com/VerbruggenD/GBA_game
+- GBA-game: https://github.com/VerbruggenD/GBA-game
 - Handwash: https://github.com/ronanlv/handwash
