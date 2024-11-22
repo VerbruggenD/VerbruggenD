@@ -5,7 +5,7 @@
 - I am really interested in physics, nanotechnology and robotics.
 - I code for personal and educational purposes.
 - Mainly in Python and raw C, but also some C++, C# and java.
-- Also, My master's thesis: An rowing stroke analyzer and automated feedback. The repo is private but when interested you can reach out on linkedIn
+- Also, My master's thesis: A rowing stroke analyzer and automated feedback. The repo is private but when interested you can reach out on linkedIn
 
 ### Quick access:
 - Machine Learning: https://github.com/VerbruggenD/ML_stroke_prediction
